@@ -1031,7 +1031,7 @@ input.btn{font-weight: bold; height: 20px; line-height: 20px; padding: 0 6px; co
 -->
 </style>
 
-<script language="JavaScript" type="text/javascript" src="http://lib.sinaapp.com/js/jquery/1.7/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://lib.sinaapp.com/js/jquery/1.7/jquery.min.js"></script>
 
 <script type="text/javascript"> 
 
